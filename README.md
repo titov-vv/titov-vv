@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=titov-vv&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=titov-vv&color=808080)
 
 <!--
 **titov-vv/titov-vv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
